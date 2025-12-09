@@ -1,20 +1,66 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🇸🇹 Literra: O Acervo Digital de São Tomé e Príncipe
 
-# Run and deploy your AI Studio app
+> **"Literatura + Terra: Um país sem memória é um país sem futuro."**
 
-This contains everything you need to run your app locally.
+![Status do Projeto](https://img.shields.io/badge/Status-Em_Desenvolvimento-orange?style=for-the-badge)
+![Building in Public](https://img.shields.io/badge/Building-In_Public-blue?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open-Source-green?style=for-the-badge)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1lYZyvkQDrUaic6rQycSqzxFcHx_M-_vq
+## 👋 Sobre o Projeto
 
-## Run Locally
+Seja bem-vindo(a)! 👋
 
-**Prerequisites:**  Node.js
+O **Literra** é uma iniciativa independente desenvolvida por santomenses.
 
+Hoje, grande parte do conhecimento de São Tomé e Príncipe — como livros, teses, leis, documentos históricos e culturais — está dispersa ou apenas em formato físico e muito pouco disponível na internet. Isso dificulta o acesso para estudantes, professores e para todos que buscam conhecimento.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Uma plataforma *open-source* criada para facilitar a busca e o acesso a esse conhecimento.
+
+A plataforma funciona como uma biblioteca digital nacional, com três objetivos principais:
+
+* 📍 **Centralizar:** Reunir num único lugar livros, teses, leis, pesquisas académicas e documentos históricos/culturais.
+* 📄 **Digitalizar:** Transformar materiais físicos em versões digitais acessíveis e preservadas.
+* 🌍 **Democratizar:** Permitir que qualquer santomense aceda facilmente à sua história, cultura e conhecimentos académicos.
+
+---
+
+## 💡 Porquê "Literra"?
+
+**Literra = Literatura + Terra.**
+
+O nome nasce da união do **Saber** (Literatura) com a nossa **Identidade** (Terra). Unimos a cultura à nossa raiz, criando uma infraestrutura digital forte que preserva tudo o que somos.
+
+---
+
+## 🏗️ Building in Public (Construindo em Público)
+
+Este não é um projeto fechado. Decidimos construir tudo às claras.
+
+* **Para os Curiosos:** Aqui verão a evolução real do projeto, sem filtros.
+* **Para os Devs:** Podem ver o nosso código, criticar, aprender e colaborar.
+* **Para a Comunidade:** O objetivo final é vosso.
+
+---
+
+## 🛠️ A Tecnologia (Tech Stack)
+
+Para os amantes de código, aqui está o motor que faz isto funcionar:
+
+* **Front-end:** React
+* **Back-end:** Node.js
+* **Base de Dados:** Firebase
+
+---
+
+## 🚀 Como rodar o projeto (Para Programadores)
+
+Queres testar isto na tua máquina? Segue os passos:
+
+### 1. Pré-requisitos
+Certifica-te que tens o `Node.js` e o `Git` instalados.
+
+### 2. Clonar o repositório
+Abra o terminal e digite:
+```bash
+git clone []
+cd 
