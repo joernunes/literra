@@ -62,5 +62,5 @@ Certifica-te que tens o `Node.js` e o `Git` instalados.
 ### 2. Clonar o repositório
 Abra o terminal e digite:
 ```bash
-git clone []
-cd 
+git clone [https://github.com/joernunes/literra.git]
+cd literra
